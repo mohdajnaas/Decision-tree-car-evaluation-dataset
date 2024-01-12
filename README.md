@@ -23,4 +23,6 @@ The Car Evaluation Decision Tree Classifier is a Python project that leverages m
 The project relies on Python libraries such as Scikit-Learn for machine learning functionalities, Pandas for data manipulation, and Matplotlib or Graphviz for decision tree visualization.
 
 # Output
+![output](https://github.com/mohdajnaas/Decision-tree-car-evaluation-dataset/blob/4aca328961469543a2de0c94386a360afb553ba3/Screenshot%20from%202023-10-03%2011-00-21.png)
+![output](https://github.com/mohdajnaas/Decision-tree-car-evaluation-dataset/blob/4aca328961469543a2de0c94386a360afb553ba3/Screenshot%20from%202023-10-03%2011-00-27.png)
 
